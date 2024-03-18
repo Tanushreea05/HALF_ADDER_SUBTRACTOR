@@ -57,5 +57,8 @@ Developed by: RegisterNumber:*/
 **RTL Schematic**
 
 **Output/TIMING Waveform**
+HALF ADDER:
+![half addder op](https://github.com/Tanushreea05/HALF_ADDER_SUBTRACTOR/assets/138849166/78575bfb-58d4-4e48-83a1-7b666d047ae3)
+
 
 **Result:**
